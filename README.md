@@ -1,4 +1,4 @@
-# Android_CPU_Monitor
+# Android_Performance_Monitor
 安卓手机的性能监控程序，使用python通过shell调用adb来获取指定包名的CPU用量
 
 使用前，请先确保您的设备已正确安装和配置adb工具
